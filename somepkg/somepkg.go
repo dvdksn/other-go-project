@@ -1,5 +1,5 @@
 package somepkg
 
 func DoSomething() string {
-	return "did something"
+	return "did something else"
 }
